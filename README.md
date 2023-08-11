@@ -3,7 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Chinmay%20T-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaytrivedi/)](https://www.linkedin.com/in/chinmaytrivedi/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Chinmay%20T-black?style=flat&logo=Stack%20Overflow&logoColor=orange&link=https://stackoverflow.com/users/5441972/chinmay-t)](https://stackoverflow.com/users/5441972/chinmay-t)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&theme=onedark&column=8&margin-w=15)](https://github.com/chinmay-trivedi/github-profile-trophy)
+<p > <img src="https://komarev.com/ghpvc/?username=chinmay-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-trivedi" /> </p>
+
+
+
 ## 🤓 Introduction
 
 - I am a team lead/full stack developer with a bachelor's degree in computer engineering
@@ -13,6 +16,10 @@
 - Dark theme guy 
 - :heart: Coffe ☕ and Conversation 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&theme=onedark&column=8&margin-w=15)](https://github.com/chinmay-trivedi/github-profile-trophy)
+
+
+
 </br>
 
 <details open>
@@ -21,7 +28,7 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-trivedi" /> </p>
+
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmay-trivedi&show_icons=true&locale=en&theme=dark&layout=compact" alt="chinmay-trivedi" /></p>
