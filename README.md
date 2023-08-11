@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&theme=onedark&column=8&margin-w=15)](https://github.com/chinmay-trivedi/github-profile-trophy)
 ## 🤓 Introduction
 
-- I am a team lead/full stack developer with a bachelor degree in computer engineering
+- I am a team lead/full stack developer with a bachelor's degree in computer engineering
 - Love coding and always learning something new 🔥
 - Always support open source projects 🎉
 - Ready to contribute for community
