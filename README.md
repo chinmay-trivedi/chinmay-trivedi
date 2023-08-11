@@ -11,6 +11,7 @@
 - Opensource ✔️
 - Ready to contribute
 - Open for suggestions
+- Dark theme guy 
 - :heart: Coffe ☕ and Conversation 
 
 </br>
