@@ -8,7 +8,7 @@
 
 - I am a team lead/developer
 - Love coding
-- Opensource ✔️
+- Opensource 🎉
 - Ready to contribute
 - Open for suggestions
 - Dark theme guy 
