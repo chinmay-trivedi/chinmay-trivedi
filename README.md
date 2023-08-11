@@ -9,7 +9,7 @@
 working hard !!
 
 <p align="left">
-    <a href="https://github.com/nirav-gajera/github-profile-trophy">
+    <a href="https://github.com/chinmay-trivedi/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&column=7&margin-w=15" alt="chinmay-trivedi" />
     </a>
 </p>
