@@ -3,16 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Chinmay%20T-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaytrivedi/)](https://www.linkedin.com/in/chinmaytrivedi/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Chinmay%20T-black?style=flat&logo=Stack%20Overflow&logoColor=orange&link=https://stackoverflow.com/users/5441972/chinmay-t)](https://stackoverflow.com/users/5441972/chinmay-t)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&theme=onedark&column=8&margin-w=15)](https://github.com/chinmay-trivedi/github-profile-trophy)
 ## 🤓 Introduction
 
-working hard !!
-
-<p align="left">
-    <a href="https://github.com/chinmay-trivedi/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&column=7&margin-w=15" alt="chinmay-trivedi" />
-    </a>
-</p>
+- I am a team lead/developer
+- Love coding
+- Opensource ✔️
+- Ready to contribute
+- Open for suggestions
+- :heart: Coffe ☕ and Conversation 
 
 </br>
 
