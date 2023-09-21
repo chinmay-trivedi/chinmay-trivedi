@@ -6,7 +6,7 @@
 - Always support open source projects 🎉
 - Ready to contribute for community
 - Dark theme guy 
-- I :heart: Coffe ☕ and Conversation
+- I :heart: coffe and conversation
 
 ---
 
