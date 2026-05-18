@@ -105,8 +105,8 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmay-trivedi&show_icons=true&theme=radical" alt="Chinmay's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay-trivedi&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=chinmay-trivedi&show_icons=true&theme=radical" alt="Chinmay's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay-trivedi&layout=compact&theme=radical" alt="Top Languages" height="180"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay-trivedi&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
