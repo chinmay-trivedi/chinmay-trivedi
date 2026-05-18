@@ -74,7 +74,7 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chinmay%20T-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaytrivedi/)](https://www.linkedin.com/in/chinmaytrivedi/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Chinmay%20T-black?style=flat&logo=Stack%20Overflow&logoColor=orange&link=https://stackoverflow.com/users/5441972/chinmay-t)](https://stackoverflow.com/users/5441972/chinmay-t)
-[![Twitter Badge](https://img.shields.io/badge/-@chinmaydotnet-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/chinmaydotnet)](https://twitter.com/chinmaydotnet)
+#[![Twitter Badge](https://img.shields.io/badge/-@chinmaydotnet-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/chinmaydotnet)](https://twitter.com/chinmaydotnet)
 
 ---
 
