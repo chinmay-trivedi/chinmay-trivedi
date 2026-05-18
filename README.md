@@ -45,7 +45,6 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 ---
 
----
 
 
 
