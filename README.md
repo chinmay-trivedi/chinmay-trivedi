@@ -11,8 +11,8 @@
 <p align="left">
   <a href="https://github.com/chinmay-trivedi?tab=followers"><img src="https://img.shields.io/github/followers/chinmay-trivedi?style=social" alt="GitHub followers" /></a>
   <a href="https://github.com/chinmay-trivedi"><img src="https://img.shields.io/github/stars/chinmay-trivedi?style=social" alt="GitHub stars" /></a>
-  <a href="https://www.linkedin.com/in/chinmaytrivedi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chinmay.trivedi@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- <a href="https://www.linkedin.com/in/chinmaytrivedi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chinmay.trivedi@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> -->
 </p>
 
 ---
