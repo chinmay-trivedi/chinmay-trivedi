@@ -136,13 +136,17 @@ I'm always open to new opportunities, collaborations, and knowledge sharing. Fee
 [![trophy](https://github-profile-trophy.vercel.app/?username=chinmay-trivedi&theme=onedark&column=8&margin-w=15)](https://github.com/chinmay-trivedi/github-profile-trophy)
 
 
-
+---
 
 <h3 align="left">Github Stats:</h3>
+
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmay-trivedi&show_icons=true&locale=en&theme=dark&layout=compact" alt="chinmay-trivedi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay-trivedi&show_icons=true&locale=en&theme=dark" alt="chinmay-trivedi" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay-trivedi&theme=dark" alt="chinmay-trivedi" /></p>
+
+---
 
 <a href="https://wakatime.com/@chinmay-trivedi">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay-trivedi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
