@@ -28,7 +28,7 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 - 💼 .NET Architect / Team Lead
 - ☁️ Cloud Solutions (Azure, AWS)
-- 🧑‍💻 C#, ASP.NET Core, Entity Framework
+- 🧑‍💻 C#, ASP.NET Core, Blazor, Aspire,  Entity Framework
 - 🐳 Docker, Kubernetes, DevOps
 - 🏆 OSS Contributor & Mentor
 - 🎤 Speaker & Blogger
