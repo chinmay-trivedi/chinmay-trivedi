@@ -27,6 +27,9 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 
 - 💼 .NET Architect / Team Lead
+- 💻  AI practitioner with a focus on integrating AI into .NET applications
+- 🌍 15+ years in software development
+- 🚀 Passionate about microservices, cloud, and DevOps<!-- - 🎓 Microsoft Certified: Azure Solutions Architect Expert -->
 - ☁️ Cloud Solutions (Azure, AWS)
 - 🧑‍💻 C#, ASP.NET Core, Blazor, Aspire,  Entity Framework
 - 🐳 Docker, Kubernetes, DevOps
