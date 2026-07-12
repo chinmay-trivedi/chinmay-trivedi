@@ -2,7 +2,7 @@
 
 # 👋 Chinmay Trivedi
 
-**Solution Architect | .NET Architect | Cloud Solutions | OSS Contributor | AI**
+**AI Enthusiast | Solution Architect | .NET Architect | Cloud Solutions | OSS Contributor | AI**
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=chinmay-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-trivedi" />
