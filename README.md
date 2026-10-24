@@ -45,7 +45,7 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 - [SerilogExamples](https://github.com/chinmay-trivedi/SeriLogExamples) — Serilog usage examples across different types of .NET projects.
 - [CleanArchitectureTemplate](https://github.com/chinmay-trivedi/CleanArchitectureTemplate) — Clean Architecture template for .NET applications.
 - [BlazorAppWithNet8](https://github.com/chinmay-trivedi/BlazorAppWithNet8) — Trying out the newer .NET 8 way to build Blazor apps and shared libraries.
-- [Open Source Contributions](https://github.com/quozd/awesome-dotnet) — Regular contributor to [Awesome .NET!](https://github.com/quozd/awesome-dotnet) and other community projects.
+- Open Source Contributions — Regular contributor to community projects.
 
 ---
 
@@ -83,7 +83,7 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 ## 🤝 Community & Open Source
 
-- Maintainer/Contributor: [Awesome .NET!](https://github.com/quozd/awesome-dotnet)
+- Maintainer/Contributor
 - Speaker at local and international .NET meetups
 - Mentor for junior developers and students
 
