@@ -89,15 +89,6 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 ---
 
-## 💬 Testimonials
-
-> "Chinmay is a visionary architect who brings clarity and leadership to every project." — [Colleague Name]
-> 
-> "A true community champion and mentor in the .NET ecosystem." — [Community Member]
-
----
-
-
 ## 📊 GitHub Stats
 
 <p align="left">
