@@ -42,9 +42,10 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 
 ## 🚀 Featured Projects
 
-- [Awesome .NET Microservices](#) — Reference architecture for building microservices with .NET, Docker, and Azure. <br>⭐ 500+ stars
-- [Cloud Native Starter Kit](#) — Boilerplate for cloud-ready .NET Core apps with CI/CD, monitoring, and best practices.
-- [Open Source Contributions](#) — Regular contributor to [Awesome .NET!](https://github.com/quozd/awesome-dotnet) and other community projects.
+- [SerilogExamples](https://github.com/chinmay-trivedi/SeriLogExamples) — Serilog usage examples across different types of .NET projects.
+- [CleanArchitectureTemplate](https://github.com/chinmay-trivedi/CleanArchitectureTemplate) — Clean Architecture template for .NET applications.
+- [BlazorAppWithNet8](https://github.com/chinmay-trivedi/BlazorAppWithNet8) — Trying out the newer .NET 8 way to build Blazor apps and shared libraries.
+- [Open Source Contributions](https://github.com/quozd/awesome-dotnet) — Regular contributor to [Awesome .NET!](https://github.com/quozd/awesome-dotnet) and other community projects.
 
 ---
 
@@ -77,14 +78,6 @@ Experienced .NET Architect and Team Lead with a passion for building scalable, c
 [![Linkedin Badge](https://img.shields.io/badge/-Chinmay%20T-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaytrivedi/)](https://www.linkedin.com/in/chinmaytrivedi/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Chinmay%20T-black?style=flat&logo=Stack%20Overflow&logoColor=orange&link=https://stackoverflow.com/users/5441972/chinmay-t)](https://stackoverflow.com/users/5441972/chinmay-t)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@chinmaydotnet-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/chinmaydotnet)](https://twitter.com/chinmaydotnet) -->
-
----
-
-## 📝 Blog & Talks
-
-- [My Tech Blog](#) — Insights on .NET, cloud, and software architecture.
-- [Conference Talk: Modern .NET Microservices](#)
-- [Dev.to Articles](#)
 
 ---
 
